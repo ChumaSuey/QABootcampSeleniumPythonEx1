@@ -33,7 +33,7 @@ def navigation():
 
 #Main function / Menu
 def main():
-  running = True;
+  running = True
   while running:
     print("\nMenu:")
     print("1. Get Current URL")
